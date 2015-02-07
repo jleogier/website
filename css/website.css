@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	background-color: #DAF3FF;
+}
+
+h1 {
+	font-size: 4em;
+	color: #FF5050;
+	font-weight: 300;
+	padding-top: 1.3em;
+	padding-bottom: 1em;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 2.75em;
+
+}
+
+#aboutMe {
+	font-size: 2em;
+	padding-top: 1em;
+	padding-left: 0.8em;
+	padding-right: 0.8em;
+}
