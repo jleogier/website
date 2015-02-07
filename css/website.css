@@ -23,3 +23,63 @@ h2 {
 	padding-left: 0.8em;
 	padding-right: 0.8em;
 }
+
+#portfolio {
+	text-decoration: none;
+}
+
+a:link {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+	color: #FF5050;
+}
+
+section ul {
+	padding: 1em 2em 1em 2em;
+}
+
+section h3 {
+	padding-bottom: 1em;
+}
+
+#portfolio li {
+	list-style-type: circle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
